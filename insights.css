@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(0, 0%, 100%);
+    font-size: 1.5rem;
+}
+
+img{
+    height: 600px;
+    width: 1300px;
+    padding-left: 110px;
+    
+}
+
+.main-background{
+    background-color:  hsl(233, 47%, 7%);
+    padding: 40px;
+    margin: 200px 100px;
+    height: 900px;
+}
+
+.card-background{
+    background-color: hsl(244, 38%, 16%);
+    margin: 100px;
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    line-break: auto;
+   
+}
+
+.card-background .text{
+    padding: 65px;
+}
+
+.main-heading{
+    color: hsl(0, 0%, 100%);
+    
+}
+
+span{
+    color: hsl(277, 64%, 61%);
+}
+
+.main-paragraph{
+   color: hsla(0, 0%, 100%, 0.75);
+}
+
+h2{
+    color: hsl(0, 0%, 100%);
+}
+
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+}
